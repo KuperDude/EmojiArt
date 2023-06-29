@@ -27,16 +27,6 @@
 		F8948CAA280AA4350072236C /* SwipeTrallingMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8948CA9280AA4350072236C /* SwipeTrallingMenu.swift */; };
 		F8948CAC280B01180072236C /* PaletteReplacer.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8948CAB280B01180072236C /* PaletteReplacer.swift */; };
 		F8948CAE280B1DD20072236C /* ControlPanel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8948CAD280B1DD20072236C /* ControlPanel.swift */; };
-		F89EA3CE283648B500557126 /* Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F89EA3CD283648B500557126 /* Tests.swift */; };
-		F89F37EB2851D1270038223E /* PhotoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F89F37EA2851D1270038223E /* PhotoView.swift */; };
-		F89F37ED2851D14F0038223E /* PhotoModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F89F37EC2851D14F0038223E /* PhotoModel.swift */; };
-		F89F37EF2851D1870038223E /* PhotoViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F89F37EE2851D1870038223E /* PhotoViewModel.swift */; };
-		F89F37F12851D33E0038223E /* LoadPhotoManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = F89F37F02851D33E0038223E /* LoadPhotoManager.swift */; };
-		F89F37F32851DA800038223E /* PhotoViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F89F37F22851DA800038223E /* PhotoViewCell.swift */; };
-		F89F37F52851DB530038223E /* LoadPhotoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F89F37F42851DB530038223E /* LoadPhotoView.swift */; };
-		F89F37F72851DC2B0038223E /* LoadPhotoViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F89F37F62851DC2B0038223E /* LoadPhotoViewModel.swift */; };
-		F89F37F92851E1770038223E /* PhotoCacheManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = F89F37F82851E1770038223E /* PhotoCacheManager.swift */; };
-		F89F37FB2851E4B20038223E /* LocalFileManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = F89F37FA2851E4B20038223E /* LocalFileManager.swift */; };
 		F89F66402830E3B9003B20AC /* StretchingPanel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F89F663F2830E3B9003B20AC /* StretchingPanel.swift */; };
 		F89FD73228338D54008BC517 /* LPRectangle+StretchingSquares.swift in Sources */ = {isa = PBXBuildFile; fileRef = F89FD73128338D54008BC517 /* LPRectangle+StretchingSquares.swift */; };
 		F8A22AF628241FCF00D2AFCC /* Popovers in Frameworks */ = {isa = PBXBuildFile; productRef = F8A22AF528241FCF00D2AFCC /* Popovers */; };
@@ -66,16 +56,6 @@
 		F8948CA9280AA4350072236C /* SwipeTrallingMenu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwipeTrallingMenu.swift; sourceTree = "<group>"; };
 		F8948CAB280B01180072236C /* PaletteReplacer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaletteReplacer.swift; sourceTree = "<group>"; };
 		F8948CAD280B1DD20072236C /* ControlPanel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ControlPanel.swift; sourceTree = "<group>"; };
-		F89EA3CD283648B500557126 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
-		F89F37EA2851D1270038223E /* PhotoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoView.swift; sourceTree = "<group>"; };
-		F89F37EC2851D14F0038223E /* PhotoModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoModel.swift; sourceTree = "<group>"; };
-		F89F37EE2851D1870038223E /* PhotoViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoViewModel.swift; sourceTree = "<group>"; };
-		F89F37F02851D33E0038223E /* LoadPhotoManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadPhotoManager.swift; sourceTree = "<group>"; };
-		F89F37F22851DA800038223E /* PhotoViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoViewCell.swift; sourceTree = "<group>"; };
-		F89F37F42851DB530038223E /* LoadPhotoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadPhotoView.swift; sourceTree = "<group>"; };
-		F89F37F62851DC2B0038223E /* LoadPhotoViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadPhotoViewModel.swift; sourceTree = "<group>"; };
-		F89F37F82851E1770038223E /* PhotoCacheManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoCacheManager.swift; sourceTree = "<group>"; };
-		F89F37FA2851E4B20038223E /* LocalFileManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalFileManager.swift; sourceTree = "<group>"; };
 		F89F663F2830E3B9003B20AC /* StretchingPanel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StretchingPanel.swift; sourceTree = "<group>"; };
 		F89FD73128338D54008BC517 /* LPRectangle+StretchingSquares.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LPRectangle+StretchingSquares.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -191,58 +171,8 @@
 				F891C8CF28119D64009D9F54 /* ScalePanel.swift */,
 				F8948CAD280B1DD20072236C /* ControlPanel.swift */,
 				F89F663F2830E3B9003B20AC /* StretchingPanel.swift */,
-				F89F37E52851D0B00038223E /* LocalApp */,
 			);
 			path = "UI Elements";
-			sourceTree = "<group>";
-		};
-		F89F37E52851D0B00038223E /* LocalApp */ = {
-			isa = PBXGroup;
-			children = (
-				F89EA3CD283648B500557126 /* Tests.swift */,
-				F89F37E92851D0EB0038223E /* Utility */,
-				F89F37E82851D0E50038223E /* View */,
-				F89F37E72851D0CC0038223E /* ViewModel */,
-				F89F37E62851D0BB0038223E /* Model */,
-			);
-			path = LocalApp;
-			sourceTree = "<group>";
-		};
-		F89F37E62851D0BB0038223E /* Model */ = {
-			isa = PBXGroup;
-			children = (
-				F89F37EC2851D14F0038223E /* PhotoModel.swift */,
-			);
-			path = Model;
-			sourceTree = "<group>";
-		};
-		F89F37E72851D0CC0038223E /* ViewModel */ = {
-			isa = PBXGroup;
-			children = (
-				F89F37EE2851D1870038223E /* PhotoViewModel.swift */,
-				F89F37F62851DC2B0038223E /* LoadPhotoViewModel.swift */,
-			);
-			path = ViewModel;
-			sourceTree = "<group>";
-		};
-		F89F37E82851D0E50038223E /* View */ = {
-			isa = PBXGroup;
-			children = (
-				F89F37EA2851D1270038223E /* PhotoView.swift */,
-				F89F37F22851DA800038223E /* PhotoViewCell.swift */,
-				F89F37F42851DB530038223E /* LoadPhotoView.swift */,
-			);
-			path = View;
-			sourceTree = "<group>";
-		};
-		F89F37E92851D0EB0038223E /* Utility */ = {
-			isa = PBXGroup;
-			children = (
-				F89F37F02851D33E0038223E /* LoadPhotoManager.swift */,
-				F89F37F82851E1770038223E /* PhotoCacheManager.swift */,
-				F89F37FA2851E4B20038223E /* LocalFileManager.swift */,
-			);
-			path = Utility;
 			sourceTree = "<group>";
 		};
 		F89FD73028338D0B008BC517 /* Shape */ = {
@@ -334,26 +264,16 @@
 				F8948CAA280AA4350072236C /* SwipeTrallingMenu.swift in Sources */,
 				F88E014027CE6B0F0018CFAD /* EmojiArtDocumentView.swift in Sources */,
 				F893CA8D27FB3CE700A832B1 /* PhotoLibrary.swift in Sources */,
-				F89F37F92851E1770038223E /* PhotoCacheManager.swift in Sources */,
 				F89294D627E23E6100F336C1 /* PaletteManager.swift in Sources */,
-				F89F37F12851D33E0038223E /* LoadPhotoManager.swift in Sources */,
-				F89F37F72851DC2B0038223E /* LoadPhotoViewModel.swift in Sources */,
-				F89F37F32851DA800038223E /* PhotoViewCell.swift in Sources */,
 				F89FD73228338D54008BC517 /* LPRectangle+StretchingSquares.swift in Sources */,
 				F88FFF7727DF92600029ACAC /* PaletteStore.swift in Sources */,
 				F89F66402830E3B9003B20AC /* StretchingPanel.swift in Sources */,
-				F89F37ED2851D14F0038223E /* PhotoModel.swift in Sources */,
-				F89EA3CE283648B500557126 /* Tests.swift in Sources */,
 				F89294D427E2316F00F336C1 /* PaletteEditor.swift in Sources */,
 				F88E013E27CE6B0F0018CFAD /* EmojiArtApp.swift in Sources */,
 				F88E015027CE712E0018CFAD /* EmojiArtDocument.swift in Sources */,
 				F88FBC5B27CF9DE70010DFB5 /* UtilityExtensions.swift in Sources */,
-				F89F37FB2851E4B20038223E /* LocalFileManager.swift in Sources */,
-				F89F37EF2851D1870038223E /* PhotoViewModel.swift in Sources */,
-				F89F37EB2851D1270038223E /* PhotoView.swift in Sources */,
 				F88E014C27CE6B4D0018CFAD /* EmojiArtModel.swift in Sources */,
 				F8948CAC280B01180072236C /* PaletteReplacer.swift in Sources */,
-				F89F37F52851DB530038223E /* LoadPhotoView.swift in Sources */,
 				F891C8D028119D64009D9F54 /* ScalePanel.swift in Sources */,
 				F891C9FC2803193800C45C9D /* Share.swift in Sources */,
 				F893CA8B27FB336C00A832B1 /* Camera.swift in Sources */,
